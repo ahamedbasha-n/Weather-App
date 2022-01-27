@@ -1,6 +1,10 @@
 # Weather-App
 
-## Technologies Used - HTML, CSS, JavaScript.
-## Developing Environment - Visual Studio code. 
+## Technology Stack Used:
+HTML, CSS, JavaScript.
 
-## Purpose -  It helps to track weather forecasts and current conditions in real-time. Users can keep a tab on the weather of several locations.
+## Developing Environment:
+Visual Studio Code. 
+
+## Purpose:
+It helps to track weather forecasts and current conditions in real-time. Users can keep track on the weather of several locations.
